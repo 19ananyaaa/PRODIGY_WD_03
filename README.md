@@ -1,1 +1,1 @@
-# PRODIGY_WD_03
+This is a simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. It allows two players to play on the same device, taking turns to mark X or O on a 3×3 grid. The application tracks the game state, detects winning conditions, and displays the result instantly.
